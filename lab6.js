@@ -26,7 +26,6 @@ var bottomLegSegmentLength = 54;
 function setup() 
 {
    createCanvas(400, 400);
-   myCanvas.parent("lab6");
    upperRightLegRotateVal = -18*PI/24;
    lowerRightLegRotateVal = 25*PI/28;
    upperLeftLegRotateVal = 18*PI/24;
